@@ -2,6 +2,12 @@
 
 
 
+### Create MlModels with swift code to run on xcode
+![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+
+
+
+
 ## iPhone 14
 ### 6 invokes(fire invoke not included)
 |                               Model name                                |CoreML-CPU|CoreML-CPU&GPU|CoreML-All|CoreML-CPU&NeuralEngine|Tflite-CPU|Tflite-GPU|
