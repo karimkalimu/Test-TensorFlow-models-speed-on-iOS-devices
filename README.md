@@ -3,9 +3,9 @@
 
 
 ### Create MlModels with swift code to run on xcode
-<a target="_blank" href="https://github.com/karimkalimu/Test-TensorFlow-models-speed-on-iOS-devices/blob/main/colab/Create%20Tflite_MLModels(xcode)%20Models%20.ipynb">
+<a href="https://github.com/karimkalimu/Test-TensorFlow-models-speed-on-iOS-devices/blob/main/colab/Create%20Tflite_MLModels(xcode)%20Models%20.ipynb" target="_blank" >
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab" />
-< target="_blank" /a>
+</a>
 
 
 
