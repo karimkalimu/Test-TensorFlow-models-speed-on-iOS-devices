@@ -3,7 +3,7 @@
 
 
 ## iPhone 14
-### 6 invokes each model(after first invoke)
+### 6 invokes(fire invoke not included)
 |                               Model name                                |CoreML-CPU|CoreML-CPU&GPU|CoreML-All|CoreML-CPU&NeuralEngine|Tflite-CPU|Tflite-GPU|
 |-------------------------------------------------------------------------|----------|--------------|----------|-----------------------|----------|----------|
 |DenseModel_units_256_layers_3_                                           |0.1/<0.1  |0.2/<0.1      |0.3/<0.1  |0.3/0.1                |0.1/<0.1  |NaN       |
@@ -13,6 +13,8 @@
 |Conv2D_filters_128_kernel_3_layers_6_                                    |9.6/2.9   |12.5/3.1      |1.6/0.2   |1.4/0.1                |88.2/0.7  |17.8/4.0  |
 |DenseModel_units_128_layers_6_                                           |0.1/<0.1  |0.3/0.1       |0.3/0.1   |0.4/0.1                |0.1/<0.1  |nan       |
 
+
+<img src="https://github.com/karimkalimu/Test-TensorFlow-models-speed-on-iOS-devices/blob/main/assets/A.png" width="200" height="400"> <img src="https://github.com/karimkalimu/Test-TensorFlow-models-speed-on-iOS-devices/blob/main/assets/B.png" width="200" height="400">
 
 
 
