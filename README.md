@@ -9,8 +9,9 @@
 
 
 
+### Note: 6 invokes(first invoke not included)
+
 ## iPhone 14
-### 6 invokes(fire invoke not included)
 |                               Model name                                |CoreML-CPU|CoreML-CPU&GPU|CoreML-All|CoreML-CPU&NeuralEngine|Tflite-CPU|Tflite-GPU|
 |-------------------------------------------------------------------------|----------|--------------|----------|-----------------------|----------|----------|
 |DenseModel_units_256_layers_3_                                           |0.1/<0.1  |0.2/<0.1      |0.3/<0.1  |0.3/0.1                |0.1/<0.1  |NaN       |
@@ -20,6 +21,16 @@
 |Conv2D_filters_128_kernel_3_layers_6_                                    |9.6/2.9   |12.5/3.1      |1.6/0.2   |1.4/0.1                |88.2/0.7  |17.8/4.0  |
 |DenseModel_units_128_layers_6_                                           |0.1/<0.1  |0.3/0.1       |0.3/0.1   |0.4/0.1                |0.1/<0.1  |nan       |
 
+
+## iPhone 13 Pro Max
+|                               Model name                                |CoreML-CPU|CoreML-CPU&GPU|CoreML-All|CoreML-CPU&NeuralEngine|Tflite-CPU|Tflite-GPU|
+|-------------------------------------------------------------------------|----------|--------------|----------|-----------------------|----------|----------|
+|MelSpecTF_4096_1023_                                                     |9.6/1.9   |9.1/0.1       |8.8/<0.1  |8.8/0.1                |19.4/1.2  |-/-       |
+|Transformer_embedDim_512_nHeads_6_ffn_1024_keyDim_64_layers_8_deLayers_8_|16.1/6.8  |170.4/5.5     |2.5/0.2   |2.7/0.2                |17.7/0.7  |-/-       |
+|DenseModel_units_128_layers_6_                                           |0.1/0.1   |0.3/<0.1      |0.3/<0.1  |0.3/<0.1               |0.1/<0.1  |NaN       |
+|Conv2D_filters_36_kernel_12_layers_3_                                    |4.8/0.2   |11.3/3.6      |1.1/0.1   |1.1/0.1                |80.2/1.9  |10.6/2.3  |
+|Conv2D_filters_128_kernel_3_layers_6_                                    |8.8/1.0   |9.5/1.5       |1.5/0.1   |1.5/0.1                |89.1/1.8  |15.5/1.9  |
+|DenseModel_units_256_layers_3_                                           |0.1/<0.1  |0.2/<0.1      |0.3/<0.1  |0.3/0.1                |0.1/<0.1  |NaN       |
 
 <img src="https://github.com/karimkalimu/Test-TensorFlow-models-speed-on-iOS-devices/blob/main/assets/A.png" width="200" height="400"> <img src="https://github.com/karimkalimu/Test-TensorFlow-models-speed-on-iOS-devices/blob/main/assets/B.png" width="200" height="400">
 
