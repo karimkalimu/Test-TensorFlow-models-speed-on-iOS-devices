@@ -43,7 +43,7 @@
 
 This project is licensed under the MIT License. You can find the full text of the license in the `LICENSE` file.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://github.com/karimkalimu/Test-TensorFlow-models-speed-on-iOS-devices/blob/main/LICENSE)
 
 
 
