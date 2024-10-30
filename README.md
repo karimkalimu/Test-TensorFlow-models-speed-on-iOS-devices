@@ -9,7 +9,9 @@
 
 
 
-### Note: 6 invokes(first invoke not included)
+### Note: 6 invokes:
+- Duration in seconds
+- Values: first invoke duration / average durations for the other 5
 
 ## iPhone 14
 |                               Model name                                |CoreML-CPU|CoreML-CPU&GPU|CoreML-All|CoreML-CPU&NeuralEngine|Tflite-CPU|Tflite-GPU|
